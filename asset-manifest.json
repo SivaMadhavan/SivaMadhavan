@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SivaMadhavan/static/css/main.05f7ca9a.css",
+    "main.js": "/SivaMadhavan/static/js/main.40100e1e.js",
+    "static/js/787.883ba16e.chunk.js": "/SivaMadhavan/static/js/787.883ba16e.chunk.js",
+    "index.html": "/SivaMadhavan/index.html",
+    "main.05f7ca9a.css.map": "/SivaMadhavan/static/css/main.05f7ca9a.css.map",
+    "main.40100e1e.js.map": "/SivaMadhavan/static/js/main.40100e1e.js.map",
+    "787.883ba16e.chunk.js.map": "/SivaMadhavan/static/js/787.883ba16e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05f7ca9a.css",
+    "static/js/main.40100e1e.js"
+  ]
+}
