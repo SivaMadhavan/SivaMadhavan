@@ -1,0 +1,43 @@
+/* Resume.css */
+
+.resume-container {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 10px 30px 10px 30px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .name {
+    text-align: center;
+  }
+  
+  .contact {
+    text-align: center;
+  }
+
+  .underline {
+    border-bottom: 3px solid #000; /* Replace #000 with the desired color */
+    /* display: inline-block; Ensures the border only spans the content width */
+  }
+  
+  /* section {
+    margin-bottom: 10px;
+  } */
+
+  .bullet-points {
+    padding-left: 10px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    margin: 5px 0;
+    text-align: justify;
+  }
+  
+  right-align{
+    text-align: right ;
+  }
